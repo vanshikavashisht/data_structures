@@ -6,7 +6,7 @@ int n;
 scanf("%d",&n);
 printf("%d",a);
 printf("%d",b);
-for(int i=0;i<n;i++)
+for(int i=0;i<n-2;i++)
 {
 c=a+b;
 a=b;
